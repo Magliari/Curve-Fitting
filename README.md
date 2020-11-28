@@ -7,6 +7,7 @@ São necessários dois pacotes:
 2. `tidyverse`
 
 Segue a visualização do ajuste de curva:
+
 ![Rplot01](https://user-images.githubusercontent.com/75131562/100518183-ca972a00-316e-11eb-915a-a89c75f4ebef.png)
 
 Obs: Tenho vontade de reestruturar totalmente esse projeto no futuro.
